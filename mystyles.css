@@ -1,0 +1,54 @@
+/* MY TEMPLATE */
+* {
+	/* Outline to view layout on screen while styling | Remove after styling */
+	/* outline: 1px dashed #ff0075; */
+	margin: 0;
+	padding: 0;
+	scroll-behavior: smooth;
+}
+html {
+	box-sizing: border-box;
+	font-size: 100%;
+}
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+body {
+	padding-top: 3.5em;
+}
+
+section {
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+
+.bi {
+	display: inline-block;
+	fill: currentColor;
+	width: 2em;
+	height: 2em;
+	vertical-align: -0.05em;
+	stroke-width: 1;
+}
+
+.services-icon {
+	margin-bottom: 1.25em;
+	font-size: 1.875rem;
+}
+
+.quote-icon {
+	font-size: 2rem;
+	margin-bottom: 1.25em;
+}
+
+body {
+	font-family: "Source Sans Pro", sans-serif;
+	color: #404040;
+}
+h1,
+h2 {
+	font-family: "Source Sans Pro", sans-serif;
+}
